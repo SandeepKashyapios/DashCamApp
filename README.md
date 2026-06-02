@@ -161,7 +161,10 @@ Repeat for other products:
 - See list of purchased orders. Currently this functionality is not implemented, Only static message is displayed for better user experience
 
 ## Demo Video
-/Users/sandeepkumar/Downloads/ScreenRecording_06-02-2026 09-16-40_1.MP4
+
+https://github.com/user-attachments/assets/4863058f-9f43-4669-8335-28f6adf9598e
+
+
 
 ## Improvements Needed/Can do more
 - Can Implement fallback device camera. If IP Webcam connection is not established.
